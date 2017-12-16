@@ -1,1 +1,180 @@
+
 /* Los estilos de tu proyecto */
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+  .colorFondo {
+      background-color: #F7B617;
+    }
+    
+    .textoBlanco {
+      color: white;
+      font-size: 20px;
+    }
+    
+    
+    .enlaces {
+      color: black;
+    }
+    
+    #disfrutaDelViaje {
+      background-image: url("../assets/images/taxi.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: bottom;
+      height: 600px;
+    }
+  
+    .recuadroInformacion {
+      padding-bottom: 3%;
+      margin-top: 10%;
+    }
+    
+    .rayita {
+      width: 30%;
+      border: 1px solid white;
+      display: inline-block;
+    }
+    .btn-primary {
+      color: black;
+      background-color:#ffffff;
+      border-color: #ffffffff;
+    }
+    .btn-block {
+      display: block;
+      width: 80%;
+      background-color: rgb(70, 171, 211);
+      margin-left: 40px;
+      margin-bottom: 5px;
+    }
+  
+    .btn-black {
+        color: white;
+        background-color:black;
+    }
+    input,
+    button,
+    select,
+    textarea {
+      font-family: sans-serif;
+      font-size: 15px;
+      color: white;
+      background-color: #F7B617;
+      border-color: white;
+      border-radius: 7px;
+    }
+    .botonCuadrado{
+      background-color: white;
+      border-color: white;
+      color: black;
+      border-radius: 2px;
+    }
+    
+    .recuadroBordesBlancos {
+      border-top: 2px solid white;
+      border-bottom: 2px solid white;
+      border-right: 2px solid white;
+      padding-left: 5%;
+      padding-top: 5%;
+      padding-bottom: 5%;
+      margin-top: 5%;
+      margin-bottom: 5%;
+    }
+    
+    #convierteteConductor {
+      background-image: url("../assets/images/conduce.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center bottom;
+      height: 400px;
+    } 
+    
+    h3, .h3 {
+      font-size: 18px;
+      color: black;
+    }
+    h6, .h6 {
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.904);
+    }
+ 
+    .opaco {
+      background-color: rgb(14, 1, 1);
+      height: inherit;
+      padding-top: 5%;
+      padding-bottom: 15%;
+      font-size: 18px;
+    }
+    
+    #tarifas {
+      padding-top: 5%;
+      padding-bottom: 5%;
+    }
+    
+    .boton-estilos {
+      background-color: white;
+      color: black;
+      font-weight: bold;
+    }
+    
+    #iphone {
+      width: 50%;;
+    }
+    
+    .recuadroBordesBlancos {
+      border-top: 2px solid white;
+      border-bottom: 2px solid white;
+      border-right: 2px solid white;
+      padding-left: 5%;
+      padding-top: 5%;
+      padding-bottom: 5%;
+      margin-top: 5%;
+      margin-bottom: 5%;
+    }
+    
+    #convierteteConductor {
+      background-image: url("../assets/images/conduce.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 400px;
+    }
+    
+    .opaco {
+      background-color: black;
+      opacity: .3;
+      padding-top: 5%;
+      padding-bottom: 15%;
+    }
+    
+    #tarifas {
+      padding-top: 5%;
+      padding-bottom: 5%;
+    }
+    
+    iframe {
+      width: 70%;
+      height: 350px;;
+      border: 2px solid white;
+    }
+    
+    footer {
+      background-color: #383736;
+    }
+    
+    .redesSociales {
+      color: white;
+      padding-top: 1%;
+    }
+    
+    .facebook {
+      margin: 10px;
+    }
+    .tiendas {
+      padding-top: 10%;
+    }
+    .tiendas img{
+        margin: 1%;
+        margin-left: 90px;
+    }
