@@ -156,7 +156,7 @@ h6, .h6 {
   padding-bottom: 5%;
 }
 
-.iframe {
+iframe {
   border: 2px solid white;
   margin-left: 0px;
   width: 400px;
@@ -164,7 +164,7 @@ h6, .h6 {
   border: 2px solid white;
 }
 
-.footer {
+footer {
   background-color: #1b1a18;
 }
 
